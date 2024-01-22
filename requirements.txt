@@ -1,4 +1,4 @@
-pyrogram
+Pyrogram 2.0.106
 TgCrypto
 Pyromod
 sqlalchemy~=1.3.23
